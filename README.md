@@ -6,5 +6,5 @@ Team members:
 Arina Drenyassova  
 Amina Khusnutdinova  
 Timur Rameev  
-Rafik Hachana	 
+Rafik Hachana  
 Vladislav Zharov  
